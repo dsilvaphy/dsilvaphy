@@ -20,7 +20,7 @@ I'm a scientist graduating in Physics and Data Science, with experience in data 
 
 <div align="center">
   <a href="https://github.com/dsilvaphy/dsilvaphy/blob/main/Curr%C3%ADculo_DSilva.pdf" target="_blank">
-    <img src="https://i.postimg.cc/vmbshVbT/Beige-Minimalist-Elegant-Personal-Linked-In-Banner-1584-x-300-px-3.gif" alt="curriculo" width="160" height="30">
+    <img src="https://i.postimg.cc/J0yX2rSF/curriculo.gif" alt="curriculo" width="160" height="30">
   </a>
 </div>
 
@@ -70,9 +70,9 @@ print(message)
   <a href="mailto:dsilva.fisica@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="90" height="25"></a>
   <a href="https://orcid.org/0000-0002-9512-8749" target="_blank">
-    <img src="https://i.postimg.cc/SxjxkYJJ/orcid.png" alt="ORCID" width="88" height="24.5"></a>
+    <img src="https://i.postimg.cc/rsS4knFG/orcid.png" alt="ORCID" width="88" height="24.5"></a>
   <a href="https://lattes.cnpq.br/3846467208930655" target="_blank">
-  <img src="https://i.postimg.cc/rpD6DSkt/lattes.png" alt="Lattes" width="88" height="25"></a>
+  <img src="https://i.postimg.cc/02smfscV/lattes.png" alt="Lattes" width="88" height="25"></a>
 </div>
 
  
