@@ -29,7 +29,14 @@ d = {
     "specialties": ["Computational Biophysics", "Statistical Physics"]
 }
 
-print(d["advocacy"])  
+message = (
+    f"{d['advocacy']} Through {', '.join(d['passions'])}, "
+    f"using {', '.join(d['code'])}, and "
+    f"{', '.join([tool for category in d['tools'].values() for tool in category])} "
+    "to make a difference."
+)
+
+print(message)
 
 ```
 
