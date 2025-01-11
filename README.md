@@ -1,4 +1,4 @@
-## Hi there! I'm D Silva! <img src="https://media.tenor.com/AbGPLdz5UaIAAAAi/rat-hamster.gif" width="30"> <img src="https://i.postimg.cc/vmGH2jbW/Sem-nome-1080-x-900-px.gif" width="50">
+## Hi there! I'm D Silva! <img src="https://media.tenor.com/AbGPLdz5UaIAAAAi/rat-hamster.gif" width="30"> <img src="https://faelandia.wordpress.com/wp-content/uploads/2013/11/bandeira-brasil.gif" width="30"> 
 
 ⚛️ I'm a scientist graduating in Physics (UFSC) and Data Science (Estácio), with experience in data processing and analysis, research, and development. ⚛️
 
