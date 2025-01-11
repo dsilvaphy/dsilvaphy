@@ -18,7 +18,7 @@
 
 #####
 
-<div align="right">
+<div align="center">
   <a href="https://github.com/dsilvaphy/dsilvaphy/blob/main/Curr%C3%ADculo_DSilva.pdf" target="_blank">
     <img src="https://i.postimg.cc/vmbshVbT/Beige-Minimalist-Elegant-Personal-Linked-In-Banner-1584-x-300-px-3.gif" alt="curriculo" width="140" height="30">
   </a>
