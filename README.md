@@ -2,7 +2,7 @@
 
 ⚛️ I'm a scientist graduating in Physics (UFSC) and Data Science (Estácio), with experience in data processing and analysis, research, and development. ⚛️
 
-### My Stack
+### 🛠️ My Stack: 
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,10 +16,14 @@
 
 </div>
 
+#####
 
-  
-  ##
-  
+<a href="https://github.com/dsilvaphy/dsilvaphy/blob/main/Curr%C3%ADculo_DSilva.pdf" target="_blank">
+    <img src="https://i.postimg.cc/rsT3VGbL/Beige-Minimalist-Elegant-Personal-Linked-In-Banner-1584-x-300-px.gif" alt="curriculo" width="140" height="30">
+</a>
+
+######
+
 ```python
 purpose = "Fighting for a fairer world for human and non-human animals."
 
