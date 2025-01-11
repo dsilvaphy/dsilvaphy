@@ -1,4 +1,4 @@
-## Hi there! I'm D Silva! 👋
+## Hi there! I'm D Silva! <img src="https://media.tenor.com/AbGPLdz5UaIAAAAi/rat-hamster.gif" width="40"></h2>
 
 ⚛️ I'm a scientist graduating in Physics (UFSC) and Data Science (Estácio), with experience in data processing and analysis, research, and development. ⚛️
 
