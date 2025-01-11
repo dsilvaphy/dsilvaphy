@@ -9,11 +9,36 @@
 </div>
   
   ##
+  
+```python
+purpose = "Fighting for a fairer world for human and non-human animals."
+
+d = {
+    "studies": {
+        "graduating_in": ["Physics", "Data Science"]
+    },
+    "advocacy": purpose,
+    "passions": ["Physics", "Data"],
+    "hobbies": ["Board games", "Challenges"],
+    "code": ["Python", "JavaScript", "HTML", "R"],
+    "tools": {
+        "data": ["Power BI", "SQL", "Excel"],
+        "cloud": ["AWS", "GCP"],
+        "bioinformatics": ["PyMOL", "NAMD", "VMD", "Packmol", "LAMMPS"]
+    },
+    "specialties": ["Computational Biophysics", "Statistical Physics"]
+}
+
+print(d["advocacy"])  
+
+```
+
  
 <div> 
   <a href="https://www.instagram.com/d.boacompanhia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/users/deltax.d" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dsilva.fisica@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/d-silvaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a> 
-  
+
+
 </div>
