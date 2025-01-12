@@ -1,4 +1,4 @@
-## Hi there! <img src="" width="25">  I'm D! <img src="https://media.tenor.com/AbGPLdz5UaIAAAAi/rat-hamster.gif" width="25"> <img src="https://faelandia.wordpress.com/wp-content/uploads/2013/11/bandeira-brasil.gif" width="30"> 
+## Hi there! <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/gifs/waving.gif?raw=true" width="25">  I'm D! <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/gifs/rat.gif" width="25"> <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/gifs/br.gif" width="30"> 
 
 I'm a scientist graduating in Physics and Data Science, with experience in data processing and analysis, research, and development.
 
