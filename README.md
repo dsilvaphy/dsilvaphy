@@ -6,11 +6,13 @@ I'm a scientist graduating in Physics and Data Science, with experience in data 
 <div style="display: inline_block;">
   <img align="center" alt="Js" height="30" width="30" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/javascript.png">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="HTML" height="30" width="30" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/html.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="CSS" height="36" width="36" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/css.png">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Python" height="30" width="30" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/python.png">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="R" height="30" width="38" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/r.png">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="PowerBI" height="30" width="30" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/powerbi.png">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="gcp" height="30" width="38" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/googlecloud.png">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="aws" height="24" width="37" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/aws.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="sql" height="30" width="27" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/sql.png">&nbsp;&nbsp;
   <img align="center" alt="mysql" height="30" width="46" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/mysql.png">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="excel" height="30" width="30" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/excel.png">
 </div>
