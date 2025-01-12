@@ -3,6 +3,13 @@
 I'm a scientist graduating in Physics and Data Science, with experience in data processing and analysis, research, and development.
 
 ### 🛠️ My stack: 
+
+ <div align="right">
+  <a href="https://dsilvaphy.itch.io/media-player-brazilian-lofi" target="_blank">
+    <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/gifs/widget2.png" alt="resume" width="300" height="170">
+  </a>
+   
+ </div>
 <div style="display: inline_block;">
   <img align="center" alt="Js" height="30" width="30" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/javascript.png">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="HTML" height="30" width="30" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/html.png">&nbsp;&nbsp;&nbsp;
@@ -19,18 +26,12 @@ I'm a scientist graduating in Physics and Data Science, with experience in data 
 
 #####
 
-<div align="right">
-  <a href="https://dsilvaphy.itch.io/media-player-brazilian-lofi" target="_blank">
-    <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/gifs/widget.png" alt="resume" width="250" height="250">
-  </a>
-
 
 <div align="center">
   <a href="https://github.com/dsilvaphy/dsilvaphy/blob/main/Curr%C3%ADculo_DSilva.pdf" target="_blank">
     <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/badges/resume.gif" alt="resume" width="160" height="30">
   </a>
 </div>
-
 
 ######
 
