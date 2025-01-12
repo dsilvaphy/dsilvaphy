@@ -19,6 +19,12 @@ I'm a scientist graduating in Physics and Data Science, with experience in data 
 
 #####
 
+<div align="right">
+  <a href="https://dsilvaphy.itch.io/media-player-brazilian-lofi" target="_blank">
+    <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/gifs/widget.png" alt="resume" width="250" height="250">
+  </a>
+
+
 <div align="center">
   <a href="https://github.com/dsilvaphy/dsilvaphy/blob/main/Curr%C3%ADculo_DSilva.pdf" target="_blank">
     <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/badges/resume.gif" alt="resume" width="160" height="30">
