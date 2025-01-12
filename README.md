@@ -59,19 +59,19 @@ print(message)
 ### Connect with me!
 <div>
   <a href="https://wa.me/5548988402906" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="100" height="25"></a>
+    <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/badges/whatsapp.png" alt="WhatsApp" width="100" height="25"></a>
   <a href="https://www.linkedin.com/in/d-silvaa/" target="_blank">
-    <img src="https://i.postimg.cc/Rh5Tzn9t/linkedin.png" alt="LinkedIn" width="100" height="25"></a>
+    <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/badges/linkedin.png" alt="LinkedIn" width="100" height="25"></a>
   <a href="https://www.instagram.com/d.boacompanhia" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="100" height="25"></a>
+    <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/badges/instagram.png" alt="Instagram" width="100" height="25"></a>
   <a href="https://discord.com/users/deltax.d" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="100" height="25"></a>
+    <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/badges/discord.png" alt="Discord" width="100" height="25"></a>
   <a href="mailto:dsilva.fisica@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="90" height="25"></a>
+    <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/badges/gmail.png" alt="Gmail" width="90" height="25"></a>
   <a href="https://orcid.org/0000-0002-9512-8749" target="_blank">
-    <img src="https://i.postimg.cc/rsS4knFG/orcid.png" alt="ORCID" width="88" height="24.5"></a>
+    <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/badges/orcid.png" alt="ORCID" width="88" height="24.5"></a>
   <a href="https://lattes.cnpq.br/3846467208930655" target="_blank">
-  <img src="https://i.postimg.cc/02smfscV/lattes.png" alt="Lattes" width="88" height="25"></a>
+  <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/badges/lattes.png" alt="Lattes" width="88" height="25"></a>
 </div>
 
  
