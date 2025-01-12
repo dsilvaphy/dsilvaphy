@@ -15,17 +15,18 @@ I'm a scientist graduating in Physics and Data Science, with experience in data 
   <img align="left" alt="sql" height="30" width="27" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/sql.png">&nbsp;&nbsp;
   <img align="left" alt="mysql" height="30" width="46" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/mysql.png">&nbsp;&nbsp;&nbsp;
   <img align="left" alt="excel" height="30" width="30" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/excel.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <div>
+<div align="center">
+  <a href="https://github.com/dsilvaphy/dsilvaphy/blob/main/Curr%C3%ADculo_DSilva.pdf" target="_blank">
+    <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/badges/resume.gif" alt="resume" width="160" height="30">
+  </a>
+</div>
+
+<div>
   <a href="https://dsilvaphy.itch.io/media-player-brazilian-lofi" target="_blank">
     <img align="right" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/gifs/widget2.png" alt="resume" width="300" height="150">
   </a>
-   <a href="https://github.com/dsilvaphy/dsilvaphy/blob/main/Curr%C3%ADculo_DSilva.pdf" target="_blank">
-    <img align="center" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/badges/resume.gif" alt="resume" width="160" height="30">
-  </a>
+ 
 </div>
-</div>
-
-
 </div>
 
 ######
