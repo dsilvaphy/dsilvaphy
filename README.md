@@ -29,7 +29,7 @@ I'm a scientist graduating in Physics and Data Science, with experience in data 
 </div>
 </div>
 
-######
+#####
 
 ```python
 purpose = "Fighting for a fairer world for human and non-human animals"
