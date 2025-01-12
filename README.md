@@ -23,7 +23,7 @@ I'm a scientist graduating in Physics and Data Science, with experience in data 
 
 <div>
   <a href="https://dsilvaphy.itch.io/media-player-brazilian-lofi" target="_blank">
-    <img align="right" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/gifs/widget2.png" alt="resume" width="300" height="150">
+    <img align="right" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/gifs/widget2.png" alt="resume" width="280" height="150">
   </a>
  
 </div>
