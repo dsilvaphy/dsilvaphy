@@ -1,26 +1,25 @@
-## Hi there! I'm D! <img src="https://media.tenor.com/AbGPLdz5UaIAAAAi/rat-hamster.gif" width="30"> <img src="https://faelandia.wordpress.com/wp-content/uploads/2013/11/bandeira-brasil.gif" width="30"> 
+## Hi there! <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/gifs/waving.gif?raw=true" width="25">  I'm D! <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/gifs/rat.gif" width="25"> <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/gifs/br.gif" width="30"> 
 
 I'm a scientist graduating in Physics and Data Science, with experience in data processing and analysis, research, and development.
 
-### 🛠️ My Stack: 
-<div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-  <img align="center" alt="PowerBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
-  <img align="center" alt="gcp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="mysql" height="30" width="40" src="https://github.com/bwks/vendor-icons-svg/blob/master/mysql-logo.svg">
-  <img align="center" alt="excel" height="30" width="40" src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg">
-
+### 🛠️ My stack: 
+<div style="display: inline_block;">
+  <img align="center" alt="Js" height="30" width="30" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/javascript.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="HTML" height="30" width="30" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/html.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Python" height="30" width="30" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/python.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="R" height="30" width="38" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/r.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="PowerBI" height="30" width="30" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/powerbi.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="gcp" height="30" width="38" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/googlecloud.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="aws" height="24" width="37" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/aws.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="mysql" height="30" width="46" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/mysql.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="excel" height="30" width="30" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/excel.png">
 </div>
 
 #####
 
 <div align="center">
   <a href="https://github.com/dsilvaphy/dsilvaphy/blob/main/Curr%C3%ADculo_DSilva.pdf" target="_blank">
-    <img src="https://i.postimg.cc/Tw57r6CR/resume.gif" alt="resume" width="160" height="30">
+    <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/badges/resume.gif" alt="resume" width="160" height="30">
   </a>
 </div>
 
