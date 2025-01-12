@@ -19,7 +19,7 @@ I'm a scientist graduating in Physics and Data Science, with experience in data 
 
 <div align="center">
   <a href="https://github.com/dsilvaphy/dsilvaphy/blob/main/Curr%C3%ADculo_DSilva.pdf" target="_blank">
-    <img src="https://i.postimg.cc/Tw57r6CR/resume.gif" alt="resume" width="160" height="30">
+    <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/badges/resume.gif" alt="resume" width="160" height="30">
   </a>
 </div>
 
