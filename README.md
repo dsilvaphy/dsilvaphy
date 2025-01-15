@@ -77,6 +77,8 @@ print(message)
     <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/badges/orcid.png" alt="ORCID" width="88" height="24.5"></a>
   <a href="https://lattes.cnpq.br/3846467208930655" target="_blank">
   <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/badges/lattes.png" alt="Lattes" width="88" height="25"></a>
+   <a href="https://dboacompanhia.blogspot.com/" target="_blank">
+  <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/badges/blogger.png" alt="Lattes" width="100" height="25"></a>
 </div>
 
  
