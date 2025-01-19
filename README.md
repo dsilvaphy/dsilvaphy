@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/gifs/waving.gif?raw=true" width="25">  I'm D! <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/gifs/rat.gif" width="25"> <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/gifs/br.gif" width="30"> 
 
-I'm a scientist graduating in Physics and Data Science, with experience in data processing and analysis, research, and development.
+I'm a scientist graduating in Physics and Data Science, specializing in data analysis and automation, statistical physics, and computational biophysics. Through science and technology, I strive for a fairer world for both human and non-human animals.
 
 ### 🛠 My stack: 
 <div style="display: inline_block;">
