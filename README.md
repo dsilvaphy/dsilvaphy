@@ -39,7 +39,7 @@ d = {
         "graduating_in": ["Physics", "Data Science"]
     },
     "advocacy": purpose,
-    "passions": ["Physics", "Data"],
+    "passions": ["Science", "Data"],
     "hobbies": ["Board games", "Challenges"],
     "code": ["Python", "JavaScript", "HTML", "R"],
     "tools": {
