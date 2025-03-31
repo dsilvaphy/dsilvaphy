@@ -16,7 +16,7 @@ I'm a scientist graduating in Physics and Data Science, specializing in data ana
   <img align="left" alt="mysql" height="30" width="46" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/mysql.png">&nbsp;&nbsp;&nbsp;
   <img align="left" alt="excel" height="30" width="30" src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/icons/excel.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div align="center">
-  <a href="https://github.com/dsilvaphy/dsilvaphy/blob/main/Curr%C3%ADculo_DSilva.pdf" target="_blank">
+  <a href="https://github.com/dsilvaphy/dsilvaphy/blob/main/curriculo-dsilva.pdf" target="_blank">
     <img src="https://github.com/dsilvaphy/dsilvaphy/blob/main/images/badges/resume.gif" alt="resume" width="160" height="30">
   </a>
 </div>
